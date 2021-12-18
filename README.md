@@ -1,9 +1,3 @@
-在线地址 :
-github-pages:
-https://frei-x.github.io/ChineseChessOnline/
-gitee-pages:
-http://stringify.gitee.io/chinesechessonline/
-
 # ChineseChessOnline
 
 中国象棋 online
@@ -18,4 +12,7 @@ http://stringify.gitee.io/chinesechessonline/
 6. 棋谱记录功能（记录所有回合走法）
 7. 实时聊天功能
 8. 用户信息系统
+    
     > 感谢您的 star!
+    
+9. 公众号：AI悦创
